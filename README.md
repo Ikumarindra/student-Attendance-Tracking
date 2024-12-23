@@ -1,5 +1,5 @@
 
-![Student Attendance Tracking Banner](https://github.com/rrs301/Student-Attendance-Tracking/assets/20216436/28df9edf-a5e8-4df4-a6a5-243b43c75225)
+![Student Attendance Tracking Banner](https://fileserver.teachstarter.com/thumbnails/1416359-google-sheets-attendance-tracker-thumbnail-0-1200x628.png)
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
